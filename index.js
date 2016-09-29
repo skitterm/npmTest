@@ -1,3 +1,3 @@
 function sayHi() {
-  alert('hi from develop with a change again');
+  alert('hi from develop');
 }
